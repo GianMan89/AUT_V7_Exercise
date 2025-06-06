@@ -1,1 +1,1 @@
-https://mybinder.org/v2/gh/GianMan89/AUT_V7_Exercise/HEAD?urlpath=%2Fdoc%2Ftree%2Fexercise_no1.ipynb
+https://mybinder.org/v2/gh/GianMan89/AUT_V7_Exercise/76131ba3bdfebc537d5e71d27a01dc0e65f508b7?urlpath=lab%2Ftree%2Fexercise_no1.ipynb
